@@ -47,20 +47,6 @@ This project is an advanced NLP application that detects gendered abusive conten
 
 ---
 
-## 🌐 Deployment
-
-### **Deploy on Streamlit Community Cloud**
-1. Push your code, model, and requirements.txt to a public GitHub repository.
-2. Go to [Streamlit Cloud](https://streamlit.io/cloud) and sign in with GitHub.
-3. Click "New app", select your repo, and set the main file to `app.py`.
-4. Deploy and share your app with the world!
-
-### **Deploy on your own server**
-- Follow the setup instructions above on your server.
-- Make sure to open port 8501 (or set a custom port with `--server.port`).
-
----
-
 ## 📝 Usage
 - Enter any text (in English, Hindi, or Tamil) in the input box.
 - Click **Detect**.
@@ -76,11 +62,6 @@ This project is an advanced NLP application that detects gendered abusive conten
 ---
 
 ## 🙏 Credits
-- Developed by: [Your Name/Team]
+- Developed by: [Karan Yadav]
 - Dataset: [ULI Dataset](https://www.kaggle.com/datasets/rtatman/uli-dataset)
 - Model inspiration: [HuggingFace Transformers](https://huggingface.co/transformers/)
-
----
-
-## 📬 Contact
-For questions, suggestions, or contributions, please open an issue or contact [your-email@example.com].
