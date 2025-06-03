@@ -145,6 +145,6 @@ st.sidebar.info(
     \n
     - Supports English, Hindi, and Tamil
     - Built with PyTorch, HuggingFace Transformers, and Streamlit
-    - [GitHub Repo](#) (add your link)
+    - [https://github.com/Karan54820/Gendered-Abuse-Detection-in-Indic-Languages](#)
     """
 ) 
